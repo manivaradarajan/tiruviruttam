@@ -1,5 +1,8 @@
 # tiruviruttam
 
+srimate ramanujaya namah
+srimat sathakopa-ramanuja-desika-varavaramunibhyo namah
+
 Tiruviruttam translation
 
 References:
