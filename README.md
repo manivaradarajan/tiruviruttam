@@ -5,6 +5,9 @@ srimat sathakopa-ramanuja-desika-varavaramunibhyo namah
 
 Tiruviruttam translation
 
+Run test
+* python3 validate.py ../translation/1.pada.yaml ../text/1.txt
+
 References:
 * http://acharya.org/dp/index.php?dp=3&Idx=2478.0&Comm=y
 * Koyil.org: http://divyaprabandham.koyil.org/index.php/2020/11/thiruviruththam/
