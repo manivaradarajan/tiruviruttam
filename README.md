@@ -3,7 +3,11 @@
 srimate ramanujaya namah
 srimat sathakopa-ramanuja-desika-varavaramunibhyo namah
 
-Tiruviruttam translation
+## Tiruviruttam translation
+
+Goal: a complete interlinear gloss of Tiruviruttam with readable translation.
+
+What is interlinear: https://r12a.github.io/blog/201708.html#20190304
 
 Run test
 * python3 validate.py ../text/1.pada.yaml ../text/1.txt
